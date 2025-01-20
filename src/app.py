@@ -81,6 +81,7 @@ SPECIAL_ARGS = (
     ("rainbow_line", "rainbow_line_enabled", "Rainbow line"),
     ("fishes_in_keepnet", "fishes_in_keepnet", "Fishes in keepnet"),
     ("boat_ticket_duration", "boat_ticket_duration", "Boat ticket duratioin"),
+    # ignore pid and pname
 )
 
 ASCII_LOGO = """
